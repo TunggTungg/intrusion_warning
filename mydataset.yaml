@@ -1,0 +1,5 @@
+train: ./data/train
+val: ./data/val
+is_coco: False
+nc: 1
+names: ['1']
